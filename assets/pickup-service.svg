@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" role="img" aria-labelledby="title desc">
+<title id="title">Clinic pickup and delivery</title>
+<desc id="desc">Dental clinic pickup and delivery vehicle illustration</desc>
+<rect width="420" height="220" rx="28" fill="#e9f8f7"/>
+<g fill="none" stroke="#08a9ad" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M65 104h170v62H65z" fill="#fff"/><path d="M235 126h54l31 30v10H235z" fill="#fff"/><path d="M276 126v31h44"/><circle cx="115" cy="174" r="20" fill="#fff"/><circle cx="282" cy="174" r="20" fill="#fff"/><path d="M34 104h31M48 86l-14 18 14 18"/><path d="M92 112h70"/></g>
+<path d="M136 91c-7-15-29-15-36 1-8-16-31-11-31 8 0 25 31 39 31 39s31-14 31-39c0-19-23-24-31-8" fill="#fff" stroke="#08a9ad" stroke-width="7" stroke-linejoin="round"/>
+<path d="M343 91h37M343 112h25" stroke="#0b4551" stroke-width="7" stroke-linecap="round"/>
+</svg>
