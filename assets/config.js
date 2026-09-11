@@ -1,8 +1,8 @@
 window.DENZEST_CONFIG={
   domain:'www.denzest.com',
   email:'hello@denzest.com',
-  phone:'8208732556',
-  whatsapp:'919970062562',
+  phone:'+91 82087 32556',
+  whatsapp:'918208732556',
   clinicFormUrl:'',
   labFormUrl:'',
   contactFormUrl:'',
